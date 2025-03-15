@@ -6,7 +6,7 @@ This project's is open source for golang developers, which will be saved all the
 
 ## Guidance Implementatione
 
- - [Mailpit As Email Testing Tools]()
+ - [Mailpit As Email Testing Tools](https://github.com/sadewa25/golang-template-projects/tree/01_Mailpit)
 
 
 
